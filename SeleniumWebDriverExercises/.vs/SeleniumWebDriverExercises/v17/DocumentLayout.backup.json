@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\veron\\Desktop\\SeleniumWebDemo\\SeleniumWebDriverExercises\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8E3DEC-7712-412B-8F7E-D7CB222812A5}|Task4\\Task4.csproj|c:\\users\\veron\\desktop\\seleniumwebdemo\\seleniumwebdriverexercises\\task4\\task4tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A8E3DEC-7712-412B-8F7E-D7CB222812A5}|Task4\\Task4.csproj|solutionrelative:task4\\task4tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C10C97A6-C4E4-4D30-AE78-C8B0072905FC}|Task3Tests\\Task3Tests.csproj|c:\\users\\veron\\desktop\\seleniumwebdemo\\seleniumwebdriverexercises\\task3tests\\tests3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C10C97A6-C4E4-4D30-AE78-C8B0072905FC}|Task3Tests\\Task3Tests.csproj|solutionrelative:task3tests\\tests3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A25A95C7-9D92-4A1B-A793-DEFA82F04F3A}|Task2\\Task2Test.cs.csproj|c:\\users\\veron\\desktop\\seleniumwebdemo\\seleniumwebdriverexercises\\task2\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A25A95C7-9D92-4A1B-A793-DEFA82F04F3A}|Task2\\Task2Test.cs.csproj|solutionrelative:task2\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A25A95C7-9D92-4A1B-A793-DEFA82F04F3A}|Task2\\Task2Test.cs.csproj|c:\\users\\veron\\desktop\\seleniumwebdemo\\seleniumwebdriverexercises\\task2\\task2test.cs.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A25A95C7-9D92-4A1B-A793-DEFA82F04F3A}|Task2\\Task2Test.cs.csproj|solutionrelative:task2\\task2test.cs.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653510D6-E633-451F-866F-A9FD5C75E79A}|SeleniumWeb\\SeleniumWeb.csproj|c:\\users\\veron\\desktop\\seleniumwebdemo\\seleniumwebdriverexercises\\seleniumweb\\tasktest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653510D6-E633-451F-866F-A9FD5C75E79A}|SeleniumWeb\\SeleniumWeb.csproj|solutionrelative:seleniumweb\\tasktest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Task4Tests.cs",
+              "DocumentMoniker": "C:\\Users\\veron\\Desktop\\SeleniumWebDemo\\SeleniumWebDriverExercises\\Task4\\Task4Tests.cs",
+              "RelativeDocumentMoniker": "Task4\\Task4Tests.cs",
+              "ToolTip": "C:\\Users\\veron\\Desktop\\SeleniumWebDemo\\SeleniumWebDriverExercises\\Task4\\Task4Tests.cs",
+              "RelativeToolTip": "Task4\\Task4Tests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T09:10:08.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tests3.cs",
+              "DocumentMoniker": "C:\\Users\\veron\\Desktop\\SeleniumWebDemo\\SeleniumWebDriverExercises\\Task3Tests\\Tests3.cs",
+              "RelativeDocumentMoniker": "Task3Tests\\Tests3.cs",
+              "ToolTip": "C:\\Users\\veron\\Desktop\\SeleniumWebDemo\\SeleniumWebDriverExercises\\Task3Tests\\Tests3.cs",
+              "RelativeToolTip": "Task3Tests\\Tests3.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAawCwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T07:24:11.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Task2Test.cs",
+              "DocumentMoniker": "C:\\Users\\veron\\Desktop\\SeleniumWebDemo\\SeleniumWebDriverExercises\\Task2\\Task2Test.cs.csproj",
+              "RelativeDocumentMoniker": "Task2\\Task2Test.cs.csproj",
+              "ToolTip": "C:\\Users\\veron\\Desktop\\SeleniumWebDemo\\SeleniumWebDriverExercises\\Task2\\Task2Test.cs.csproj",
+              "RelativeToolTip": "Task2\\Task2Test.cs.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-02T20:49:47.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\veron\\Desktop\\SeleniumWebDemo\\SeleniumWebDriverExercises\\Task2\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Task2\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\veron\\Desktop\\SeleniumWebDemo\\SeleniumWebDriverExercises\\Task2\\UnitTest1.cs",
+              "RelativeToolTip": "Task2\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T19:48:28.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskTest1.cs",
+              "DocumentMoniker": "C:\\Users\\veron\\Desktop\\SeleniumWebDemo\\SeleniumWebDriverExercises\\SeleniumWeb\\TaskTest1.cs",
+              "RelativeDocumentMoniker": "SeleniumWeb\\TaskTest1.cs",
+              "ToolTip": "C:\\Users\\veron\\Desktop\\SeleniumWebDemo\\SeleniumWebDriverExercises\\SeleniumWeb\\TaskTest1.cs",
+              "RelativeToolTip": "SeleniumWeb\\TaskTest1.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T16:56:45.103Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
