@@ -19,4 +19,5 @@ This project contains automated tests written in **C#** using **Selenium WebDriv
 ## 🔧 Installation and Setup  
 1. **Clone the repository:**  
    ```bash
-   git clone https://github.com/your-username/SeleniumWebDriverExercises.git
+   git clone https://github.com/Veronika0601/SeleniumWebDriverExercises.git
+
